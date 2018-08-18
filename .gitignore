@@ -2,3 +2,5 @@ venv/
 data/
 shipship.code-workspace
 assets.csv
+.ipynb_checkpoints/
+app.py
